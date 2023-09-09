@@ -1,0 +1,9 @@
+Output of (Wine Quality Prediction) Using different ML Technique
+
+Model	                           Score
+ 2	 RandomForestClassifier	      0.893750
+ 0	 LogisticRegression	          0.872917
+ 1	 DecisionTreeClassifier    	  0.864583
+
+
+Note: (Prediction is done not using LinearRegression as ths Score were not accurate according to the standard)
